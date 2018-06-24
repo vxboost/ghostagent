@@ -18,7 +18,9 @@ GhostAgent is a High-performance traffic distribution app
 
 ## Download
 
-Current version: v0.0.1
+Current version: v0.0.2
 
 https://github.com/vxboost/ghostagent/releases
+
+
 
