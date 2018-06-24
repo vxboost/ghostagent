@@ -8,7 +8,7 @@ GhostAgent is a High-performance traffic distribution app
 * Supports multiple rule types
 
 ## GUI
-
+![Image text](https://raw.githubusercontent.com/vxboost/ghostagent/master/images/main.png)
 
 ## Protocols support
 * [ ] socks5
