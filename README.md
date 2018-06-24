@@ -1,15 +1,15 @@
-# ghostagent
+# GhostAgent
 
-ghostAgent is a High-performance traffic distribution app
+GhostAgent is a High-performance traffic distribution app
 
-## features
+## Features
 * High performance
 * Detailed running status
 * Supports multiple rule types
 
-## download
+## Download
 
-current version: v0.0.1
+Current version: v0.0.1
 
 https://github.com/vxboost/ghostagent/releases
 
